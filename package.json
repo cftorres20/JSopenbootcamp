@@ -1,0 +1,23 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "Actividad sobre JS Basico",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cftorres20/JSopenbootcamp.git"
+  },
+  "keywords": [
+    "Actividad",
+    "JS"
+  ],
+  "author": "Carlos Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cftorres20/JSopenbootcamp/issues"
+  },
+  "homepage": "https://github.com/cftorres20/JSopenbootcamp#readme"
+}
